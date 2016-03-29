@@ -1,0 +1,9 @@
+{
+    "host": "http://localhost:9000",
+    "callback": "http://localhost:9000/oauth2callback",
+    "client_id": "client_id",
+    "client_secret": "client_secret",
+    "scopes": [
+        "https://www.googleapis.com/auth/yt-analytics.readonly"
+    ]
+}
