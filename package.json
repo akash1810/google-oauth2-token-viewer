@@ -1,12 +1,13 @@
 {
-    "name": "google-oauth2-token-viewer",
-    "version": "0.0.1",
-    "description": "Google OAuth2 Token Viewer",
-    "dependencies": {
-        "express": "4.13.4",
-        "googleapis": "4.0.0"
-    },
-    "scripts": {
-        "start": "node app.js"
-    }
+  "name": "google-oauth2-token-viewer",
+  "version": "0.0.1",
+  "description": "Google OAuth2 Token Viewer",
+  "dependencies": {
+    "express": "4.13.4",
+    "googleapis": "4.0.0",
+    "request": "^2.69.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
 }
